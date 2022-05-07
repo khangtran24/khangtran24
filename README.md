@@ -5,17 +5,18 @@
 - 🌱 I’m addicted to learning and growing every day because I think "time is worth more than money"
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my medium
 - 📫 How to find me: 
-  - [Medium articles](https://medium.com/@khangtn.work)
+  - [Medium articles](https://medium.com/@khangtn.work) 
   - [LinkedIn](https://www.linkedin.com/in/tnkhang/)
 
-- My programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangtran24)](https://github.com/anuraghazra/github-readme-stats)
+## 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0" alt="Recent Article 0"></a>  
 
-- My github stats
+## My programming languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangtran24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khangtran24&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+## My github stats
+![github stats](https://github-readme-stats.vercel.app/api?username=khangtran24&show_icons=true&count_private=true&show_icons=true)
 
 <!---
 khangtran24/khangtran24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
