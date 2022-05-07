@@ -10,10 +10,10 @@
 
 
 ## 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0" alt="Recent Article 0"></a>  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khangtn.work/0" alt="Recent Article 0"></a>  
 
 ## My programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangtran24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangtran24)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My github stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=khangtran24&show_icons=true&count_private=true&show_icons=true)
