@@ -1,7 +1,8 @@
 # khangtn
-- :man: What I love/like
-  - Programming, building tools, learn new technologies in microservice and big data 
-  - Playing video games, watching videos and listening to music on social network, taking pictures with my phone
+### Hello 👋
+I'm Khang, currently I'm a Data Engineer in an e-commerce company
+- 🎤 I speak: Go, Python, Scala, Java
+- 💗 I love: Functional/Competitive Programming
 - 🌱 I’m addicted to learning and growing every day because I think "time is worth more than money"
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my medium
 - 📫 How to find me: 
