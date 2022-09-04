@@ -8,6 +8,7 @@ I'm Khang, currently I'm a Data Engineer in an e-commerce company
 - 📫 How to find me: 
   - [Medium articles](https://medium.com/@khangtn.work) 
   - [LinkedIn](https://www.linkedin.com/in/tnkhang/)
+  - [LeetCode](https://leetcode.com/khangtn1/)
 
 
 ## 📝 My Latest Blog Post in Medium
